@@ -1,0 +1,89 @@
+html,
+.body {
+  font-family: "Book Antiqua";
+  font-weight: 300;
+  width: auto; 
+  color: #5e434f;  
+  font-size: 20px;
+  text-align:center;
+}
+h1 {
+font-family: "Times New Roman";
+max-width: 500px;
+margin: 0 auto;
+color: #7e5669;
+}
+h2 {
+font-family: "Times New Roman";
+max-width: 500px;
+margin: 0 auto;
+color: #6e4b5c;
+}
+p {
+  font-family: "Times New Roman";
+  max-width: 800px;
+  margin: 0 auto;
+  color: #5e434f;  
+}
+#navibar {
+  width: 100%;
+  display:inline-block;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #E8DFE0;
+  text-align: center;
+}
+#navitext {
+  float: left;
+  font-weight: bold;
+  color: #7e5669;
+}
+#navitextlogo {
+  float: left;
+}
+#navitext a {
+  display: inline-block;
+  color: #967483;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-family: Lato;
+  font-size: medium;
+}
+#navitext a:hover {
+  background-color: #f3e5e8;
+  width: auto;
+  border-radius: 25px;
+}
+.header {
+  padding: 20px 0;
+  color: #7e5669;
+  max-width: 500px;
+  margin: 0 auto;
+}
+#tidbits {
+  list-style-type: none;
+}
+#wordpress {
+ padding-left: 335px;  
+ width: 100px;
+ height: 100px;
+}
+#linkedin {
+ padding-left: 335px;  
+ width: 100px;
+ height: 100px;
+ }
+#instagram {
+padding-left: 335px;  
+ width: 100px;
+ height:100px;
+ }
+.column {
+  float: left;
+  text-align: center;
+  width: 25%;
+  padding: 5px;
+}
